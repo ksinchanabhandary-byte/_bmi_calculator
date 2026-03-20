@@ -83,4 +83,4 @@ c:\BMI_app\bmi.py
 ## Author
 Sinchana Bhandary
 BCA Student and Aspiring UI/UX Designer
-[LinkedIn](www.linkedin.com/in/sinchanabhandary25)
+www.linkedin.com/in/sinchanabhandary25

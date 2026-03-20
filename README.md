@@ -1,5 +1,5 @@
 # ⚖️ Modern BMI Calculator
-![App Screenshot]("Screenshot(1).png")
+![Demo Output](Screenshot(1).png)
 
 A sleek and interactive web application built with **Python** and **Streamlit** that allows users to calculate their Body Mass Index (BMI) using metric units or by converting feet to meters.
 …

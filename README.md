@@ -21,6 +21,10 @@ A sleek and interactive web application built with **Python** and **Streamlit** 
   * Install requirements:*
    ```bash
    pip install streamlit
+   
+  * Clone the Repository
+```bash
+git clone [https://github.com/Sinchana/bmi-calculator.git](https://github.com/Sinchana/bmi-calculator.git)
 
   * To Run
    ```bash
